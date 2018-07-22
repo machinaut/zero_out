@@ -1,0 +1,3 @@
+recursive-include zero_out *.py *.cc
+include VERSION
+include setup.py
